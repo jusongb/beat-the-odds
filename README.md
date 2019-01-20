@@ -1,4 +1,7 @@
 # Beat The Odds: Platform Game
+
+![beattheodds](./title_image.png)
+
 Participants:
 - JuSong Baek
 - Bianca Fu
